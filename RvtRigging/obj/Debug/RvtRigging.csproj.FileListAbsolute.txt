@@ -317,3 +317,11 @@ D:\Dropbox (Personal)\Coding\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.csproj.C
 D:\Dropbox (Personal)\Coding\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.csproj.CopyComplete
 D:\Dropbox (Personal)\Coding\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.dll
 D:\Dropbox (Personal)\Coding\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.pdb
+D:\Repos\TCC\RvtTCC2021\RvtRigging\bin\Debug\RvtRigging.addin
+D:\Repos\TCC\RvtTCC2021\RvtRigging\bin\Debug\RvtRigging.dll
+D:\Repos\TCC\RvtTCC2021\RvtRigging\bin\Debug\RvtRigging.pdb
+D:\Repos\TCC\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.csproj.AssemblyReference.cache
+D:\Repos\TCC\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.g.resources
+D:\Repos\TCC\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.csproj.CoreCompileInputs.cache
+D:\Repos\TCC\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.dll
+D:\Repos\TCC\RvtTCC2021\RvtRigging\obj\Debug\RvtRigging.pdb
